@@ -1,3 +1,10 @@
+## [2.2.0-beta.9](https://github.com/ScrapeGraphAI/Scrapegraph-ai/compare/v2.2.0-beta.8...v2.2.0-beta.9) (2026-09-07)
+
+
+### Bug Fixes
+
+* **models:** add Gemini 2.5 token limits so they are not truncated to 8192 ([c21af20](https://github.com/ScrapeGraphAI/Scrapegraph-ai/commit/c21af206862c13be1848eac75b4c04250718c8d9))
+
 ## [2.2.0-beta.8](https://github.com/ScrapeGraphAI/Scrapegraph-ai/compare/v2.2.0-beta.7...v2.2.0-beta.8) (2026-08-23)
 
 
