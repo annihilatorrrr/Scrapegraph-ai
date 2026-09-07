@@ -1,3 +1,15 @@
+## [2.2.3](https://github.com/ScrapeGraphAI/Scrapegraph-ai/compare/v2.2.2...v2.2.3) (2026-09-07)
+
+
+### Bug Fixes
+
+* **proxy:** handle schemeless proxy server format and broker routing ([70dbd2d](https://github.com/ScrapeGraphAI/Scrapegraph-ai/commit/70dbd2d26d63bdc7473293371a275a4d856737f9))
+
+
+### Docs
+
+* add NodeMaven sponsor to all README languages ([cc8568c](https://github.com/ScrapeGraphAI/Scrapegraph-ai/commit/cc8568cc76f765f3d2bd2db0bdf5018d347af101))
+
 ## [2.2.2](https://github.com/ScrapeGraphAI/Scrapegraph-ai/compare/v2.2.1...v2.2.2) (2026-08-23)
 
 
