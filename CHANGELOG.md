@@ -1,3 +1,10 @@
+## [2.2.0-beta.10](https://github.com/ScrapeGraphAI/Scrapegraph-ai/compare/v2.2.0-beta.9...v2.2.0-beta.10) (2026-09-07)
+
+
+### Bug Fixes
+
+* 🐛 read SCRAPEGRAPHAI_TELEMETRY_ENABLED from the environment, not the config file ([8769c3b](https://github.com/ScrapeGraphAI/Scrapegraph-ai/commit/8769c3bddd7c865963cc7e245eefb496f55dc519))
+
 ## [2.2.0-beta.9](https://github.com/ScrapeGraphAI/Scrapegraph-ai/compare/v2.2.0-beta.8...v2.2.0-beta.9) (2026-09-07)
 
 
