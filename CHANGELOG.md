@@ -1,3 +1,20 @@
+## [2.2.4-beta.1](https://github.com/ScrapeGraphAI/Scrapegraph-ai/compare/v2.2.3...v2.2.4-beta.1) (2026-09-07)
+
+
+### Bug Fixes
+
+* 🐛 read SCRAPEGRAPHAI_TELEMETRY_ENABLED from the environment, not the config file ([8769c3b](https://github.com/ScrapeGraphAI/Scrapegraph-ai/commit/8769c3bddd7c865963cc7e245eefb496f55dc519))
+* **models:** add Gemini 2.5 token limits so they are not truncated to 8192 ([c21af20](https://github.com/ScrapeGraphAI/Scrapegraph-ai/commit/c21af206862c13be1848eac75b4c04250718c8d9))
+* **fetch:** surface HTTP errors and missing content instead of answering NA ([f91478e](https://github.com/ScrapeGraphAI/Scrapegraph-ai/commit/f91478eacf86485f6b9efcf843fc0c815dde1ec5)), closes [#1102](https://github.com/ScrapeGraphAI/Scrapegraph-ai/issues/1102) [#1102](https://github.com/ScrapeGraphAI/Scrapegraph-ai/issues/1102)
+
+
+### CI
+
+* **release:** 2.2.0-beta.10 [skip ci] ([0bb8bc9](https://github.com/ScrapeGraphAI/Scrapegraph-ai/commit/0bb8bc935028b4f0a91444db2866ec0142f97199))
+* **release:** 2.2.0-beta.7 [skip ci] ([decfc6b](https://github.com/ScrapeGraphAI/Scrapegraph-ai/commit/decfc6bb6eb10a29ed6aaabb07244b8915042604))
+* **release:** 2.2.0-beta.8 [skip ci] ([d59c3df](https://github.com/ScrapeGraphAI/Scrapegraph-ai/commit/d59c3dfceecdacbba4e17f237b017117cf7f1cee)), closes [#1102](https://github.com/ScrapeGraphAI/Scrapegraph-ai/issues/1102) [#1102](https://github.com/ScrapeGraphAI/Scrapegraph-ai/issues/1102)
+* **release:** 2.2.0-beta.9 [skip ci] ([3047ef8](https://github.com/ScrapeGraphAI/Scrapegraph-ai/commit/3047ef8eda694d19c6fe4654777ea6343744acba))
+
 ## [2.2.3](https://github.com/ScrapeGraphAI/Scrapegraph-ai/compare/v2.2.2...v2.2.3) (2026-09-07)
 
 
